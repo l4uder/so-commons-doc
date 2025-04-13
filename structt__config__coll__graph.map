@@ -1,4 +1,0 @@
-<map id="t_config" name="t_config">
-<area shape="rect" id="node1" title="Manejo de archivos de configuración. Inicializar con config_create()." alt="" coords="18,95,91,121"/>
-<area shape="rect" id="node2" href="$structt__dictionary.html" title="Estructura de un diccionario que contiene pares string&#45;&gt;puntero. Inicializar con dictionary_create()." alt="" coords="5,5,104,32"/>
-</map>

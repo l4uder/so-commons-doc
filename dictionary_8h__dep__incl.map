@@ -1,8 +1,0 @@
-<map id="src/commons/collections/dictionary.h" name="src/commons/collections/dictionary.h">
-<area shape="rect" id="node1" title="#include &lt;commons/collections/dictionary.h&gt;" alt="" coords="195,5,377,47"/>
-<area shape="rect" id="node2" href="$dictionary_8c_source.html" title=" " alt="" coords="5,95,188,136"/>
-<area shape="rect" id="node3" href="$config_8h.html" title="#include &lt;commons/config.h&gt;" alt="" coords="264,102,428,129"/>
-<area shape="rect" id="node4" href="$config_8c_source.html" title=" " alt="" coords="145,191,307,218"/>
-<area shape="rect" id="node6" href="$test__dictionary_8c_source.html" title=" " alt="" coords="453,95,602,136"/>
-<area shape="rect" id="node5" href="$test__config_8c_source.html" title=" " alt="" coords="331,184,481,225"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="src/commons/config.h" name="src/commons/config.h">
-<area shape="rect" id="node1" title="#include &lt;commons/config.h&gt;" alt="" coords="9,5,173,32"/>
-<area shape="rect" id="node2" href="$dictionary_8h.html" title="#include &lt;commons/collections/dictionary.h&gt;" alt="" coords="5,80,176,107"/>
-<area shape="rect" id="node3" href="$node_8h_source.html" title=" " alt="" coords="8,229,75,256"/>
-<area shape="rect" id="node4" title=" " alt="" coords="107,229,189,256"/>
-<area shape="rect" id="node5" href="$list_8h.html" title="#include &lt;commons/collections/list.h&gt;" alt="" coords="63,155,118,181"/>
-</map>
