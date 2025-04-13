@@ -1,0 +1,4 @@
+<map id="t_list_iterator" name="t_list_iterator">
+<area shape="rect" id="node1" title="Iterador de listas. Inicializar con list_iterator_create()" alt="" coords="5,95,115,121"/>
+<area shape="rect" id="node2" href="$structt__list.html" title="Estructura de una lista enlazada. Inicializar con list_create()" alt="" coords="33,5,87,32"/>
+</map>

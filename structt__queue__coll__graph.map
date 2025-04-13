@@ -1,0 +1,4 @@
+<map id="t_queue" name="t_queue">
+<area shape="rect" id="node1" title="Estructura que representa una cola. Inicializar con queue_create()" alt="" coords="5,95,80,121"/>
+<area shape="rect" id="node2" href="$structt__list.html" title="Estructura de una lista enlazada. Inicializar con list_create()" alt="" coords="15,5,70,32"/>
+</map>
